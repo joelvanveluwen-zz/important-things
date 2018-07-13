@@ -12,4 +12,12 @@ Why? Data Science is a terrible profession when it comes to standardisation and 
 [https://github.com/airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo)
 Why? Knowledge management is a pain. This tool is an awesome way to reduce some of the pain. It takes R markdown and Jupyter notebook and generates a hostable, light weight blogging platform so you can transfer knowledge and methodology to other people. Use this tool! 
 
+## Model pipelines
 
+### Distributed 
+
+*Add Photon, SparkML, xgboost, h20.ai*
+
+### Local
+
+*Add SKLearn, Yellowbrick and xgboost*
